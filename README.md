@@ -1,7 +1,7 @@
 # 🌤 Weather Now – React + Leaflet App
 
 ## 🚀 Live Demo
-[Deployed App Link](https://codesandbox.io/p/sandbox/wather-now-zm8fsq)  <!-- replace with your deployed link -->
+[Deployed App Link](https://zm8fsq.csb.app/)  <!-- replace with your deployed link -->
 
 ## 📖 About
 Weather Now is a React-based web application that displays real-time weather conditions with dynamic backgrounds.
